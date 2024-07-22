@@ -4,7 +4,7 @@
   <img align="center" alt="code" width="500" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
 </a>
 </h1>
-<p align="center">
+<p  align="center" >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mahiimaa" alt="mahiimaa" />
   </a>
