@@ -4,7 +4,6 @@
   <img align="center" alt="code" width="300" opacity="40%" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
 </a>
 </h1>
-<p align="center">- 🔭 I’m currently working on [Inventory Management](https://github.com/subin1rai/IIC-Resource-Frontend) </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahiimaa&" alt="mahiimaa" /></p>
 
